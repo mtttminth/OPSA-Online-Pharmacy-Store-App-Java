@@ -3,5 +3,5 @@ An Android Ecommerce Application for internship program written with Native Andr
 
 Java as frontend mobile application,
 Retrofit and Recycler View libraries,
-REST API,
+REST API,JWT
 
