@@ -1,0 +1,173 @@
+nav{
+  background-color: #1e4f74;
+}
+
+.navbar-nav{
+/*position: absolute;#4FA6DC*/
+margin-left:500px;
+}
+
+#navbar {
+   z-index: 100;
+  background-color: #3f9ae5a3;
+  top: 0px;
+  width: 100%;
+  display: block;
+  transition: top 0.3s;
+  color: white;
+
+}
+
+#navbar a {
+  float: left;
+  color: white;
+  text-align: center;
+}
+
+#navbar a:hover {
+  color:  #4FA6DC;
+}
+
+#main {
+  padding: 16px;
+  margin-top: 40px;
+  height: 1500px; 
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.sticky + #main{
+  padding-top: 60px;
+}
+
+.img{
+width: 40px;
+height: 40px;
+/*margin-right: 10px;*/
+}
+
+.b{
+  position: absolute;
+  right:40px;
+}
+
+.container {
+  position: relative;
+  font-family: Arial;
+}
+
+.bg{
+  background-color: #1e4f74;
+  color: white;
+}
+
+.paragraph{
+  color: white;
+  position: absolute;
+  top: 400px;
+  bottom: 800px;
+  padding-left: 20px;
+  padding-right: 750px;
+ 
+}
+
+.p{
+  color: black;
+}
+
+.innerp{
+  font-size: 20px;
+  background-color: black;
+}
+
+#b{
+  margin-left: 300px;
+}
+
+#bmore{
+  margin-left: 700px;
+}
+
+.brand{
+margin-right: 880px;
+color: white;
+font-size: 17px;
+margin-top: 5px;
+}
+
+.playstore{
+margin-top: 100px;
+ padding: 30px; 
+}
+
+.text{
+  margin-top: 60px;
+  padding: 30px; 
+}
+
+a.alink{
+  color: white;
+}
+
+.contactus{
+  margin-left:0px;
+  padding: 5px;
+}
+#aboutus{
+  margin-top: 20px;
+}
+.textcontent{
+  background-color: #1e4f74;
+  height: 100px;
+  font-size: 25px;
+  color: white;
+  text-align: center;
+  border-radius: 25px;
+  padding:30px 30px;  
+ }
+
+#caption{
+  padding: 5px;
+  margin-right: 13px;
+}
+#appbg{
+  /* background-color: #1e4f74;*/
+  padding: 30px;  
+}
+#apppic{
+  width: 200px;
+  height: 350px;
+}
+
+#apppic2{
+  width: 150px;
+  height: 250px;
+}
+
+#apppic3{
+  width: 120px;
+  height: 200px;
+}
+
+
+#cardshadow .card:hover {
+  box-shadow: 0 0 0 2px #177dea61;
+  transition: all 200ms ease-out;
+}
+
+/*.more{
+  display: none;
+}
+*/
+
+.plain{
+  height: 30px;
+}
+
+.plainn{
+  height: 40px;
+}
